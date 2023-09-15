@@ -32,3 +32,18 @@
   1. 第一次进系统 界面显示和操作有问题
   2. 第二次进系统 界面显示和操作正常
   3. 扬声器破音，消息提示音破音
+  4. 使用包 AlphaDroid_A13-arm64-bvS_20230901.img.xz
+  5. 下载地址 https://github.com/ChonDoit/treble_alphadroid_patches/releases/tag/A13-v20230901
+
+#### Flyme
+  1. 下载地址 https://sourceforge.net/projects/nippongsi/files/
+  2. 启动失败 FlymeOS-11.0-AB-11-20230113-NipponGSI.img.gz
+  3. 启动失败 FlymeOS-13.0-AB-13-20230615-NipponGSI.img.gz
+  4. 启动失败 FlymeOS-13.0-AB-13-20230331-NipponGSI.img.gz
+
+#### HarmonyOS
+  1. 下载地址 https://sourceforge.net/projects/mystic-gsi-updates/files/Huawei/
+  2. 启动失败 HarmonyOS-qcom-12-eng.huawei.20230812.101427-AB-20230826-MysticGSI.zip
+  3. 启动失败 HarmonyOS-debloat-try2-12-eng.huawei.20230812.101427-AB-20230826-MysticGSI.zip
+  4. 下载地址 https://sourceforge.net/projects/nippongsi/files/
+  5. 启动失败 HarmonyOS-4.0-AB-12-20230827-NipponGSI.img.gz
