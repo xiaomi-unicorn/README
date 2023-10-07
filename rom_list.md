@@ -21,3 +21,9 @@ https://forum.xda-developers.com/t/rom-unicorn-miui-v14-0-23-8-14-dev-14-0-8-2-e
 # 下载地址 搜索 UNICORN 查找，前面有几个目录下有包，有的没有
 https://sourceforge.net/projects/eliteroms/files/MIUI-WEEKLY-UPDATES/
 ```
+
+### Pixel Experience Plus 13
+1. 如果原系统是MIUI13就先升级MIUI14再刷这个
+2. 下载地址：https://mirrors.kuailexs.com/roms/xiaomi-12spro/
+3. QQ群：小米12SPRO刷机资源（905034181）
+4. 欢迎积极反馈问题
